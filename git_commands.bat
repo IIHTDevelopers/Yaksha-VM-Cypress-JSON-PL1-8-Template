@@ -11,3 +11,4 @@ git commit -m "First commit"
 REM Push the changes to the remote repository
 git push
 
+* Note:- It is must to execute npx cypress run command. This will push the result to server.
